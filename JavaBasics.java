@@ -62,8 +62,8 @@ public class JavaBasics {
         }
         for (int j = 0; j < m; j++) {
             float sumAverage = 0.0F;
-            for (int i = 0; i < matrix.length; i++) {
-                sumAverage += matrix[i][j];
+            for (int[] ints : matrix) {
+                sumAverage += ints[j];
             }
             averageColumns[j] = (float) (Math.round((sumAverage/n)*10000.0)/10000.0);
         }
