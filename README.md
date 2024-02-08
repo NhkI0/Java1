@@ -1,4 +1,4 @@
-# Programming tecnologies
+# Programming technologies
 
 # „The basics of Java “
 
