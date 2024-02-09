@@ -121,8 +121,8 @@ public class JavaBasics {
                 + maxValue);
 
         // For exercise 7 we just use a classic .sort() on a copy with a loop
-        for (int i = 0; i < matrix.length; i++){
-            Arrays.sort(matrix[i]);
+        for (int[] ints : matrix) {
+            Arrays.sort(ints);
         }
         System.out.print("\n\n");
         System.out.println("2D array sorted by rows :");
