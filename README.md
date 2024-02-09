@@ -6,25 +6,25 @@
 
 ## Workflow and tasks:
 
-1. Create a class (name JavaBasics) with the main () method.
+1. ✅ Create a class (name JavaBasics) with the main () method.
 
-2. Write a multi-line comment in the class file code that includes your name, group, and student book number. Before each task, write a one-line comment with a brief explanation. Write a javadoc comment that will introduce what your class is about. [1.25 points]<br>
+2. 🆗 Write a multi-line comment in the class file code that includes your name, group, and student book number. Before each task, write a one-line comment with a brief explanation. Write a javadoc comment that will introduce what your class is about. [1.25 points]<br>
   
-3. In the main () method define a two-dimensional array of type int, which consists of n rows and m columns. The values of n and m are determined by the number of letters in your name (n) and surname (m). For example, in the case of Jūratė Janutėnaitė, n = 6, m = 11. Note: calculations for n and m must be automated, no manual calculation. [1.25 points]<br>
+3. ✅ In the main () method define a two-dimensional array of type int, which consists of n rows and m columns. The values of n and m are determined by the number of letters in your name (n) and surname (m). For example, in the case of Jūratė Janutėnaitė, n = 6, m = 11. Note: calculations for n and m must be automated, no manual calculation. [1.25 points]<br>
   
-4. Fill the array with random numbers from a to b. a is the number of vowels in your name, and b is the total number of characters in your name and surname. For example, in the case of Jūratė Janutėnaitė a = 3, and b = 17. Loops and random number generation tools must be used to fill the array. Print the generated array on the screen, in the form of a table (arranged in rows and columns, with headings for each column and row, for index display). [1.25 points]<br>
+4. ✅ Fill the array with random numbers from a to b. a is the number of vowels in your name, and b is the total number of characters in your name and surname. For example, in the case of Jūratė Janutėnaitė a = 3, and b = 17. Loops and random number generation tools must be used to fill the array. Print the generated array on the screen, in the form of a table (arranged in rows and columns, with headings for each column and row, for index display). [1.25 points]<br>
   
-5. Create two one-dimensional arrays, where one would store the averages of all rows and the other - the averages of columns. Display one array and then another array. Accuracy - 4 decimal places [1.25 points]<br>
+5. ✅ Create two one-dimensional arrays, where one would store the averages of all rows and the other - the averages of columns. Display one array and then another array. Accuracy - 4 decimal places [1.25 points]<br>
    
-6.  Calculate and display the number of values in each line that are greater than the average for that line. Note: Implement proper loop control [1.25 points]<br>
+6. ✅ Calculate and display the number of values in each line that are greater than the average for that line. Note: Implement proper loop control [1.25 points]<br>
    
-7. Find and print the maximum value of the 2D array, excluding the values in row a and column a (a value from task 4). [1.25 points]<br>
+7. ✅ Find and print the maximum value of the 2D array, excluding the values in row a and column a (a value from task 4). [1.25 points]<br>
    
-8. Print the values of a row of a two-dimensional array, arranged from the smallest to the largest, but without changing the two-dimensional array itself (a value from task 4). [1.25 points]<br>
+8. ✅ Print the values of a row of a two-dimensional array, arranged from the smallest to the largest, but without changing the two-dimensional array itself (a value from task 4). [1.25 points]<br>
    
-9. Find the index of the minimum value from the column average values array. Display the minimum value of the two dimentional array from the i-th column (i found from average column array)[1.25 points]<br>
+9. ✅ Find the index of the minimum value from the column average values array. Display the minimum value of the two dimentional array from the i-th column (i found from average column array)[1.25 points]<br>
   
-10. Upload the created .java file to 1st laboratory work in the Moodle system.<br>
+10. ✅ Upload the created .java file to 1st laboratory work in the Moodle system.<br>
 
 
 
