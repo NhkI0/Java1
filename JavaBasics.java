@@ -4,7 +4,8 @@ import java.util.Arrays;
 /**
  * <p>This method is an exercise that make us see and use the very basics of Java</p>
  * <p>I hope all wil be as intended :)</p>
- * @version 1.0
+ * @link <a href="https://github.com/NhkI0/Java1">Go here to see the version on GitHub</a>
+ * @version 1.0.1
  * @author Noé GUENGANT
  */
 // Creation of the "JavaBasics" class
